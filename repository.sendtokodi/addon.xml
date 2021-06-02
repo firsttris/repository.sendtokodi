@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.sendtokodi.python3" name="SendToKodi Add-ons" version="0.0.1" provider-name="firsttris">
+	<extension point="xbmc.addon.repository" name="SendToKodi Python 3 Add-on Repository">
+		<info compressed="false">https://raw.githubusercontent.com/firsttris/repository.sendtokodi.python3/master/addon.xml</info>
+		<checksum>https://raw.githubusercontent.com/firsttris/repository.sendtokodi.python3/master/addon.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/firsttris/repository.sendtokodi.python3/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">SendToKodi Add-on Repository</summary>
+        <description lang="en">SendToKodi Add-on Repository</description>
+        <description lang="de">SendToKodi Add-on Repository</description>
+        <disclaimer lang="en"></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
