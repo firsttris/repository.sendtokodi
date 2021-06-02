@@ -2,15 +2,15 @@
 <addons>
 <addon id="repository.sendtokodi.python3" name="sendtokodi repository" version="0.0.1" provider-name="firsttris">
 	<extension point="xbmc.addon.metadata">
-        <summary lang="en">SendToKodi Add-on Repository for Python 3</summary>
-        <description lang="en">SendToKodi Add-on Repository for Python 3</description>
-        <description lang="de">SendToKodi Add-on Repository für Python 3</description>
+        <summary lang="en">SendToKodi Add-on Repository</summary>
+        <description lang="en">SendToKodi Add-on Repository</description>
+        <description lang="de">SendToKodi Add-on Repository</description>
         <disclaimer lang="en"></disclaimer>
         <platform>all</platform>
 	</extension>
 </addon>
 
-<addon id="plugin.video.sendtokodi" name="sendtokodi" version="0.0.274.1" provider-name="firsttris">
+<addon id="plugin.video.sendtokodi" name="sendtokodi" version="0.0.281.1" provider-name="firsttris">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
