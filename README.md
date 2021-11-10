@@ -1,12 +1,8 @@
-# repository.sendtokodi
-SendToKodi addon Repository
-
-![GitHub Logo](https://github.com/firsttris/repository.sendtokodi/raw/master/repository.sendtokodi/icon.png)
+# SendToKodi Pyhton 3 Repository
 
 [Download Repository](https://github.com/firsttris/repository.sendtokodi.python3/raw/master/repository.sendtokodi.python3/repository.sendtokodi.python3-0.0.1.zip)
 
-### Continuous integration
+[Builds](https://github.com/firsttris/repository.sendtokodi.python3/tree/master/plugin.video.sendtokodi)
 
-[![Build Status](https://travis-ci.org/firsttris/plugin.video.sendtokodi.svg?branch=master)](https://travis-ci.org/firsttris/plugin.video.sendtokodi) 
+![GitHub Logo](https://github.com/firsttris/repository.sendtokodi/raw/master/repository.sendtokodi/icon.png)
 
-:dizzy_face:
