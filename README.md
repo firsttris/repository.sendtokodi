@@ -1,6 +1,6 @@
 # SendToKodi Phyton 3 Repository
 
-[Download Repository](https://github.com/firsttris/repository.sendtokodi.python3/raw/master/repository.sendtokodi.python3/repository.sendtokodi.python3-0.0.1.zip)
+[Download Repository](https://github.com/firsttris/repository.sendtokodi.python3/raw/master/repository.sendtokodi.python3/repository.sendtokodi.python3-1.0.0.zip)
 
 [Builds](https://github.com/firsttris/repository.sendtokodi.python3/tree/master/plugin.video.sendtokodi)
 
