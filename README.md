@@ -1,4 +1,4 @@
-# SendToKodi Phyton 3 Repository
+# SendToKodi Repository
 
 [Download Repository](https://github.com/firsttris/repository.sendtokodi/raw/refs/heads/master/repository.sendtokodi-1.0.0.zip)
 
