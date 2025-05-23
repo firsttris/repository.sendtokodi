@@ -9,7 +9,7 @@
         <platform>all</platform>
 	</extension>
 </addon>
-<addon id="plugin.video.sendtokodi" name="SendToKodi" version="0.9.908" provider-name="firsttris">
+<addon id="plugin.video.sendtokodi" name="SendToKodi" version="0.9.909" provider-name="firsttris">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.inputstreamhelper" version="0.4.2" />
