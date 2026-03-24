@@ -9,7 +9,7 @@
         <platform>all</platform>
 	</extension>
 </addon>
-<addon id="plugin.video.sendtokodi" name="SendToKodi" version="0.9.1083" provider-name="firsttris">
+<addon id="plugin.video.sendtokodi" name="SendToKodi" version="0.9.1084" provider-name="firsttris">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.inputstreamhelper" version="0.4.2" />
@@ -24,7 +24,7 @@
     <summary lang="en">SendToKodi</summary>
     <description lang="en">SendToKodi</description>
     <description lang="de">SendToKodi</description>
-    <disclaimer lang="en">The sent URLs are resolved with an external library. In case a website/stream does not work, check if youtube-dl or youtube-dlp can download them outside of kodi before opening a bug.</disclaimer>
+    <disclaimer lang="en">The sent URLs are resolved with an external library. In case a website/stream does not work, check if yt-dlp can download them outside of Kodi before opening a bug.</disclaimer>
     <platform>all</platform>
     <license>MIT License</license>
     <website>https://teufel-it.de/</website>
