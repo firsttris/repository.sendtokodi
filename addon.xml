@@ -9,7 +9,7 @@
         <platform>all</platform>
 	</extension>
 </addon>
-<addon id="plugin.video.sendtokodi" name="SendToKodi" version="0.10.0" provider-name="firsttris">
+<addon id="plugin.video.sendtokodi" name="SendToKodi" version="0.10.1" provider-name="firsttris">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.inputstreamhelper" version="0.4.2" />
@@ -17,6 +17,8 @@
   </requires>
   <extension point="xbmc.python.pluginsource" library="service.py">
       <provides>video</provides>
+      
+      <reuselanguageinvoker>true</reuselanguageinvoker>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">SendToKodi</summary>
@@ -25,7 +27,7 @@
     <disclaimer lang="en">The sent URLs are resolved with an external library. In case a website/stream does not work, check if yt-dlp can download them outside of Kodi before opening a bug.</disclaimer>
     <platform>all</platform>
     <license>MIT License</license>
-    <website>https://github.com/firsttris/plugin.video.sendtokodi/blob/master/README.md</website>
+    <website>https://firsttris.github.io/plugin.video.sendtokodi/</website>
     <email>sendtokodi@teufel-it.de</email>
     <source>https://github.com/firsttris/plugin.video.sendtokodi</source>
     <assets>
